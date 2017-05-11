@@ -1,0 +1,26 @@
+body {
+	background-color: #6ed66e;
+}
+
+a {
+	text-decoration: none;
+}
+
+#id-under-construction {
+	padding-top: 40px;
+	width: 400px;
+	margin:0 auto;
+}
+
+.title-text-center {
+	margin-top: -10px;
+	position: relative;
+	font-size: 35px;
+	font-family: arial;
+	text-align: center;
+	text-shadow: 2px 2px 6px #3b5198;
+	color: #FFFFFF;
+	font-weight: 700;
+}
+
+
